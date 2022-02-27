@@ -9,6 +9,7 @@ namespace Task3
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Privet User1");
+			Console.Writeline("Nu privet User 2");
 		}
 	}
 }
